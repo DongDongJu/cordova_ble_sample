@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-bluetoothle","cordova-plugin-ble-central","cordova-plugin-bluetooth-peripheral-usage-description","cordova-plugin-code-push","code-push","cordova-plugin-dialogs","cordova-plugin-device","cordova-plugin-file","cordova-plugin-compat","cordova-plugin-file-transfer","cordova-plugin-zip","cordova-plugin-ble-peripheral"]}

@@ -1,0 +1,108 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-bluetoothle": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-bluetoothle@4.5.6"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-ble-central": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ble-central@^1.2.4"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-bluetooth-peripheral-usage-description": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-bluetooth-peripheral-usage-description@^1.0.1"
+    },
+    "is_top_level": true,
+    "variables": {
+      "TEXT": "test"
+    }
+  },
+  "cordova-plugin-code-push": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-code-push@latest"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "code-push": {
+    "source": {
+      "type": "registry",
+      "id": "code-push@3.0.1"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-dialogs": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-dialogs@>=1.1.1"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device@>=1.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-file": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file@4.3.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-compat": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-compat@^1.0.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-file-transfer": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-file-transfer@1.6.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-zip": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-zip@3.1.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-ble-peripheral": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ble-peripheral"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

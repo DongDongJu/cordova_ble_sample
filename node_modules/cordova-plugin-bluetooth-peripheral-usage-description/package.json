@@ -1,0 +1,59 @@
+{
+  "_from": "cordova-plugin-bluetooth-peripheral-usage-description",
+  "_id": "cordova-plugin-bluetooth-peripheral-usage-description@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-s6U0tT1erZMV0ZJt6mf7OFbx9dVsNUnGlji3aqRGUAYZOWTUl81EpwWvSQpa13wTKaUCb9iQqZsXY1kLxSbyMQ==",
+  "_location": "/cordova-plugin-bluetooth-peripheral-usage-description",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-bluetooth-peripheral-usage-description",
+    "name": "cordova-plugin-bluetooth-peripheral-usage-description",
+    "escapedName": "cordova-plugin-bluetooth-peripheral-usage-description",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-bluetooth-peripheral-usage-description/-/cordova-plugin-bluetooth-peripheral-usage-description-1.0.1.tgz",
+  "_shasum": "a4663824b3af41896edfa39003a73fc484f4617f",
+  "_spec": "cordova-plugin-bluetooth-peripheral-usage-description",
+  "_where": "/Users/seodongju/cordova/blesample",
+  "author": {
+    "name": "Rand Dusing"
+  },
+  "bugs": {
+    "url": "https://github.com/randdusing/cordova-plugin-bluetooth-peripheral-usage-description/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-bluetooth-peripheral-usage-description",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Set Bluetooth Peripheral Usage Description on iOS",
+  "homepage": "https://github.com/randdusing/cordova-plugin-bluetooth-peripheral-usage-description#readme",
+  "keywords": [
+    "bluetooth",
+    "bluetoothle",
+    "bluetooth le",
+    "background",
+    "peripheral",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-bluetooth-peripheral-usage-description",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randdusing/cordova-plugin-bluetooth-peripheral-usage-description.git"
+  },
+  "version": "1.0.1"
+}

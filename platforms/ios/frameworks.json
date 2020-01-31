@@ -1,0 +1,5 @@
+{
+    "CoreBluetooth.framework": 3,
+    "AudioToolbox.framework": 1,
+    "libz.dylib": 1
+}
